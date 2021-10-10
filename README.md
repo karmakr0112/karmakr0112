@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karmakr0112
 - 👀 I’m interested in hacking 
-- 🌱 I’m currently learning termux and kali
+- 🌱 I’m currently learning termux and kali linlux
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me abhilashsasikumar.in@gmail.comcom
 
